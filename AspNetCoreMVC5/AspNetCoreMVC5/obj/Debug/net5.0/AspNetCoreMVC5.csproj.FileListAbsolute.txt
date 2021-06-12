@@ -38,3 +38,5 @@ D:\Git\AspNetCoreMVC5\AspNetCoreMVC5\AspNetCoreMVC5\obj\Debug\net5.0\ref\AspNetC
 D:\Git\AspNetCoreMVC5\AspNetCoreMVC5\AspNetCoreMVC5\obj\Debug\net5.0\AspNetCoreMVC5.pdb
 D:\Git\AspNetCoreMVC5\AspNetCoreMVC5\AspNetCoreMVC5\obj\Debug\net5.0\AspNetCoreMVC5.genruntimeconfig.cache
 D:\Git\AspNetCoreMVC5\AspNetCoreMVC5\AspNetCoreMVC5\obj\Debug\net5.0\AspNetCoreMVC5.csproj.CopyComplete
+D:\Git\AspNetCoreMVC5\AspNetCoreMVC5\AspNetCoreMVC5\obj\Debug\net5.0\Razor\Views\HelloWorld\Index2.cshtml.g.cs
+D:\Git\AspNetCoreMVC5\AspNetCoreMVC5\AspNetCoreMVC5\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome2.cshtml.g.cs

@@ -34,5 +34,18 @@ namespace AspNetCoreMVC5.Controllers
         {
             return HtmlEncoder.Default.Encode($"Hello {name}, ID: {ID}");
         }
+
+        public IActionResult Index2()
+        {
+            return View();
+        }
+
+        public IActionResult Welcome2(string name, int numTimes = 1)
+        {
+            ViewData["Message"] = "Hello " + name;
+            ViewData["NumTimes"] = numTimes;
+
+            return View();
+        }
     }
 }
